@@ -14,7 +14,7 @@ This guide provides instructions on how to set up and configure the project loca
 First, clone the project repository to your local machine using the following command:
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:Pushkal-9/wishlist-app.git
 ```
 
 ## Configure Application for H2 Database
